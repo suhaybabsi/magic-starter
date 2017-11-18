@@ -19,7 +19,7 @@ Make sure to edit the following files to reflect your app description:
 Run the following commands on terminal:
 
 ```sh
-git clone https://github.com/suhaybimagine/imagination.git
+git clone https://github.com/suhaybabsi/magic-starter.git
 npm install
 npm run dev
 ```
